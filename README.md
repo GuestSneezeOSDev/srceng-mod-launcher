@@ -10,6 +10,7 @@
 - Run `./waf configure -T release`
 - Windows:  `waf configure -T release`
 - Run `./waf build`
+
 -Windows:  `waf build`
 
 ### Custom signing
