@@ -1,7 +1,8 @@
 # Source Engine Android Mod Template 
 - Repository based on [FWGS Xash3D android launcher](https://github.com/FWGS/xash3d-android-project)
-- fork with windows version of waf
+
 ## Requirements u must have JDK and Python installed on your device
+
 ## Building
 - Create SDK with sdkmanager
 - Copy libs to android/lib/arch/
