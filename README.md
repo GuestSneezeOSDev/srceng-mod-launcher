@@ -1,7 +1,7 @@
 # Source Engine Android Mod Template 
 - Repository based on [FWGS Xash3D android launcher](https://github.com/FWGS/xash3d-android-project)
 
-## Requirements u must have JDK , Python, Android SDK installed on your device
+## Requirements u must have JDK , Python, Android SDK Version 24 installed on your device
 ## and to run waf on linux type `chmod +x waf`
 
 ## Building
