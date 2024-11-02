@@ -9,8 +9,9 @@
 - Copy libs to android/lib/arch/
 - Run `./waf configure -T release`
 - Windows:  `waf configure -T release`
-- Run `./waf build` 
+- Run `./waf build`
 -Windows:  `waf build`
+
 ### Custom signing
 - Add `--key=keystore_name,keystore_alias,keystore_pass,key_pass` on configure stage. Replace <keystore_name,keystore_alias,keystore_pass,key_pass> with your key, alias etc.
 ### Building with JDK 11+
